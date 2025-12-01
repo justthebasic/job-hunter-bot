@@ -34,7 +34,7 @@ O **Job Hunter Bot** é uma ferramenta de automação inteligente projetada para
 
 1.  **Clone o repositório**:
     ```bash
-    git clone https://github.com/seu-usuario/job-hunter-bot.git
+    git clone https://github.com/justthebasic/job-hunter-bot.git
     cd job-hunter-bot
     ```
 
