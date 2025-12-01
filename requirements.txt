@@ -1,0 +1,6 @@
+playwright
+openai
+python-dotenv
+markdown2
+pdfkit
+playwright-stealth
