@@ -36,6 +36,7 @@ env/
 .idea/
 
 # Project Specific
+auth.json
 base_cv.md
 generated_cvs/
 bot.log
